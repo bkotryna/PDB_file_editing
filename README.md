@@ -1,2 +1,2 @@
 # Edit_PDB_file
-Add formyl atoms to a nucleosome structure file (generate 5fC DNA)
+Edit a nucleosome structure file (add formyl atoms to generate 5fC DNA)
